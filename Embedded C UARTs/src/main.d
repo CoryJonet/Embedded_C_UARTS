@@ -1,0 +1,12 @@
+main.o: main.c
+main.o: Q:\uVision4.5\ARM\RV31\Inc\stdint.h
+main.o: Q:\uVision4.5\ARM\RV31\Inc\stdio.h
+main.o: Q:\uVision4.5\ARM\RV31\Inc\stdlib.h
+main.o: Q:\uVision4.5\ARM\RV31\Inc\stdbool.h
+main.o: Q:\uVision4.5\ARM\Inc\Luminary\lm4f120h5qr.h
+main.o: ../team.h
+main.o: inc/gpio.h
+main.o: inc/uart.h
+main.o: Q:\uVision4.5\ARM\RV31\Inc\errno.h
+main.o: inc/circular_buffer.h
+main.o: inc/lm4f120h5qr.h
